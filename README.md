@@ -2,7 +2,7 @@
 
 * Description: Basic app demonstrating Node and Express with jQuery. Overall purpose is to help find a friend. Using the results from the survey, this full-stack will compare their answers with those from other friends. The app then display the name and picture of the friend with the best overal match.
  
-* Live Demo: <https://friend-finder-new.herokuapp.com/>
+* Live Demo: <https://arcane-harbor-79227.herokuapp.com/>
 
 ![Friend Finder Image](https://github.com/hnguy0221/FriendFinderNew/FriendFinderNew.png)
 
